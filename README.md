@@ -2,9 +2,9 @@
 <div align="center" dir="auto">
   <a href="#">
     
-    
+<img src="https://github-readme-stats.vercel.app/api?username=wagnermarcellus&amp;show_icons=true&amp;theme=gotham&amp;include_all_commits=true&amp;count_private=true">    
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnermarcellus&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
-    <img src="https://github-readme-stats.vercel.app/api?username=wagnermarcellus&amp;show_icons=true&amp;theme=gotham&amp;include_all_commits=true&amp;count_private=true">
+    
     
     
 </a></div><a href="#">
