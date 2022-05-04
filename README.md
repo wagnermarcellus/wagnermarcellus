@@ -35,7 +35,6 @@
   <hr>
 <!--<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/wagnermarcellus/rocket/blob/d0ffa012b453544634a59b6d4edda43e866986b8/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>-->
   <div>
-    <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/wagnermarcellus/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
-  </div>
+   ![Snake animation](https://github.com/wagnermarcellus/wagnermarcellus/blob/output/github-contribution-grid-snake.svg)
 </div>
 </article>
