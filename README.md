@@ -33,6 +33,9 @@
     <img height="30" width="40" src="https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png" alt="english"> <img height="30" width="40" src="https://cdn.countryflags.com/thumbs/france/flag-400.png" alt="french"> <img src="https://cdn.countryflags.com/thumbs/portugal/flag-800.png" alt="portuguesse" height="30" width="40"> <img height="30" width="40" src="https://cdn.countryflags.com/thumbs/haiti/flag-800.png" alt="creole">
   </div>
   <hr>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/wagnermarcellus/rocket/blob/d0ffa012b453544634a59b6d4edda43e866986b8/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+<!--<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/wagnermarcellus/rocket/blob/d0ffa012b453544634a59b6d4edda43e866986b8/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>-->
+  <div>
+    <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/wagnermarcellus/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+  </div>
 </div>
 </article>
