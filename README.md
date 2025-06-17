@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋‍♂️, I'm <strong><span style="color: red;">Wagner Marcellus</span>span></strong></h1>
+<h1 align="center">Hi 🙋‍♂️, I'm <strong><span style="color: red;">Wagner Marcellus</span></strong></h1>
 <p align="center">💻 Developer | 🚀 Passionate about learning | 🎨 Creative mind</p>
 
 ---
