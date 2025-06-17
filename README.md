@@ -61,6 +61,9 @@
 <p align="center">
   <img src="https://github.com/wagnermarcellus/rocket/blob/d0ffa012b453544634a59b6d4edda43e866986b8/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+### 🐍 Snake eating my contributions
+
+![GitHub Snake](https://github.com/wagnermarcellus/wagnermarcellus/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
