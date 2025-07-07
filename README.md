@@ -27,7 +27,7 @@
   <tr>
     <td width="50%">
 
-- 🔥 **[M7 Extension](https://link-to-your-extension.com)**  
+- 🔥 **[M7 Extension](https://github.com/wagnermarcellus/M7-Community)**  
 A productivity Chrome extension built to simplify online tasks.
 
     </td>
