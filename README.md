@@ -91,7 +91,8 @@ A productivity Chrome extension built to simplify online tasks.
 
 - 🎓 **CS50: Introduction to Computer Science** – Harvard University (edX)  
 - 🎓 **The Complete Web Development Bootcamp** – Dr. Angela Yu (Udemy)  
-- 🎓 **Digital Marketing** – Universidade de São Paulo (USP - EAD)  
+- 🎓 **Digital Marketing** – Universidade de São Paulo (USP - EAD)
+- 🎓 **Technical Course in Systems Development** – SENAI São José - SC (Expected: December 2026)
 
 ---
 
