@@ -1,5 +1,14 @@
 <h1 align="center">Hi 🙋‍♂️, I'm <br><strong><span style="color: red;">Wagner Marcellus</span></strong></h1>
-<p align="center">💻 Developer | 🚀 Passionate about learning | 🎨 Creative mind</p>
+<p align="center">💻 Developer | 🚀 Lifelong Learner | 🎨 Creative Mind</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🧠 Self-taught web developer passionate about technology and innovation  
+- 🌍 Based in Florianópolis, Brazil — available for freelance work and collaborations  
+- 💡 Focused on creating smart and effective digital solutions  
+- 🎧 I love coding while listening to lo-fi and sipping coffee ☕  
 
 ---
 
@@ -7,8 +16,23 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=wagnermarcellus&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Wagner's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnermarcellus&layout=compact&langs_count=7&theme=gotham" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnermarcellus&layout=compact&langs_count=7&theme=gotham" alt="Top Languages" />
 </div>
+
+---
+
+## 📂 Featured Projects
+
+- 🔥 [M7 Extension](https://github.com/wagnermarcellus/M7-Community) – A productivity Chrome extension built to simplify online tasks  
+
+
+---
+
+## 🎯 Current Goals
+
+- Mastering TypeScript and React  
+- Growing my audience on TikTok and YouTube  
+- Scaling sales of my M7 Chrome Extension 🚀  
 
 ---
 
@@ -41,6 +65,14 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 📚 Certifications
+
+- 🎓 **CS50: Introduction to Computer Science** – Harvard University (edX)  
+- 🎓 **The Complete 2024 Web Development Bootcamp** – Dr. Angela Yu (Udemy)  
+- 🎓 **Digital Marketing** – Universidade de São Paulo (USP - EAD)  
 
 ---
 
