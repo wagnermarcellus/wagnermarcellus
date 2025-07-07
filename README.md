@@ -23,7 +23,21 @@
 
 ## 📂 Featured Projects
 
-- 🔥 [M7 Extension](https://github.com/wagnermarcellus/M7-Community) – A productivity Chrome extension built to simplify online tasks  
+<table>
+  <tr>
+    <td width="50%">
+
+- 🔥 **[M7 Extension](https://link-to-your-extension.com)**  
+A productivity Chrome extension built to simplify online tasks.
+
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=hM4JzGhmpjg" target="_blank">
+        <img width="100%" src="https://img.youtube.com/vi/hM4JzGhmpjg/hqdefault.jpg" alt="M7 Extension Video Thumbnail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
