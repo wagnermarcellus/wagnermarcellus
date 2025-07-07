@@ -31,12 +31,12 @@
 A productivity Chrome extension built to simplify online tasks.
 
      </td>
-    <td>
+    <td> <p><strong>🎥 Video 1 – Portuguese (🇧🇷)</strong></p>
       <a href="https://www.youtube.com/watch?v=hM4JzGhmpjg" target="_blank">
         <img width="100%" src="https://img.youtube.com/vi/hM4JzGhmpjg/hqdefault.jpg" alt="M7 Extension Video in Portuguese Thumbnail" />
       </a>
     </td>
-     <td>
+     <td><p><strong>🎥 Video 2 – Haitian Creole (🇭🇹)</strong></p>
       <a href="https://youtu.be/NRtEdwRUG3U" target="_blank">
         <img width="100%" src="https://img.youtube.com/vi/hM4JzGhmpjg/hqdefault.jpg" alt="M7 Extension Video in Haitian Creole Thumbnail" />
       </a>
