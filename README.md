@@ -37,6 +37,9 @@
   <a href="https://br.linkedin.com/in/wagner-marcellus-2340b5173" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/solowagner" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
