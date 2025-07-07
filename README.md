@@ -25,16 +25,26 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="45%" valign="top">
 
 - 🔥 **[M7 Extension](https://github.com/wagnermarcellus/M7-Community)**  
 A productivity Chrome extension built to simplify online tasks.
 
     </td>
-    <td>
+    <td width="55%">
+
+      <p><strong>🇵🇹 Portuguese Demo Video</strong></p>
       <a href="https://www.youtube.com/watch?v=hM4JzGhmpjg" target="_blank">
-        <img width="100%" src="https://img.youtube.com/vi/hM4JzGhmpjg/hqdefault.jpg" alt="M7 Extension Video Thumbnail" />
+        <img width="100%" src="https://img.youtube.com/vi/hM4JzGhmpjg/hqdefault.jpg" alt="M7 Extension Portuguese Demo" />
       </a>
+
+      <br/><br/>
+
+      <p><strong>🇭🇹 Haitian Creole Demo Video</strong></p>
+      <a href="https://www.youtube.com/watch?v=NRtEdwRUG3U" target="_blank">
+        <img width="100%" src="https://img.youtube.com/vi/NRtEdwRUG3U/hqdefault.jpg" alt="M7 Extension Haitian Creole Demo" />
+      </a>
+
     </td>
   </tr>
 </table>
