@@ -90,7 +90,7 @@ A productivity Chrome extension built to simplify online tasks.
 ## 📚 Certifications
 
 - 🎓 **CS50: Introduction to Computer Science** – Harvard University (edX)  
-- 🎓 **The Complete 2024 Web Development Bootcamp** – Dr. Angela Yu (Udemy)  
+- 🎓 **The Complete Web Development Bootcamp** – Dr. Angela Yu (Udemy)  
 - 🎓 **Digital Marketing** – Universidade de São Paulo (USP - EAD)  
 
 ---
