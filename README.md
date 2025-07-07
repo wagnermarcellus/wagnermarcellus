@@ -1,18 +1,18 @@
-<h1 align="center">Hi 🙋‍♂️, I'm <br><strong><span style="color: red;">Wagner Marcellus</span></strong></h1>
+<h1 align="center">Hi 🙋‍♂️, I'm <br> <strong><span style="color: red;">Wagner Marcellus</span></strong></h1>
 <p align="center">💻 Developer | 🚀 Passionate about learning | 🎨 Creative mind</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wagnermarcellus&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Wagner's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnermarcellus&layout=compact&langs_count=7&theme=gotham" alt="Top Langs" />
-</div>
+</p>
 
 ---
 
-## 💻 Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 <p align="center">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -20,9 +20,13 @@
   <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </p>
 
+<p align="right">
+  <img src="https://avatars.githubusercontent.com/u/61642256?v=4" height="150" alt="Wagner Marcellus" />
+</p>
+
 ---
 
-## 📱 Socials
+### 📱 Socials
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UClryV4M_USYFKxl8r1zi3Gw" target="_blank">
@@ -41,9 +45,9 @@
 
 ---
 
-## 🌍 Language Skills
+### 🌍 Language Skills
 
-<p align="center">
+<p>
   <img height="30" width="40" src="https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png" alt="English" title="English" />
   <img height="30" width="40" src="https://cdn.countryflags.com/thumbs/france/flag-400.png" alt="French" title="Français" />
   <img height="30" width="40" src="https://cdn.countryflags.com/thumbs/portugal/flag-800.png" alt="Portuguese" title="Português" />
@@ -52,7 +56,7 @@
 
 ---
 
-## 🐍 GitHub Snake Animation
+### 🐍 GitHub Snake Animation
 
 <p align="center">
   <img src="https://github.com/wagnermarcellus/rocket/blob/d0ffa012b453544634a59b6d4edda43e866986b8/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -60,8 +64,4 @@
 
 ---
 
-<p align="center">✨ <em>"Coding is not just my job, it's my passion!"</em> ✨</p>
-
-<p align="right">
-  <img src="https://avatars.githubusercontent.com/u/61642256?v=4" height="150" alt="Wagner Marcellus" />
-</p>
+✨ *"Coding is not just my job, it's my passion!"*
