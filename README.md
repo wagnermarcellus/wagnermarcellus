@@ -50,7 +50,7 @@ A productivity Chrome extension built to simplify online tasks.
 ## 🎯 Current Goals
 
 - Mastering TypeScript and React  
-- Growing my audience on TikTok and YouTube  
+- Growing my audience on Instagram and YouTube  
 - Scaling sales of my M7 Chrome Extension 🚀  
 
 ---
