@@ -17,6 +17,9 @@
 - 🎧 I love coding while listening to lo-fi and sipping coffee ☕  
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wagnermarcellus&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ## 📊 GitHub Stats
 
