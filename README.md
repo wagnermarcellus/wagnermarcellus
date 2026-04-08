@@ -14,9 +14,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wagnermarcellus&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Wagner's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnermarcellus&layout=compact&langs_count=7&theme=gotham" alt="Top Languages" />
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wagnermarcellus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnermarcellus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
