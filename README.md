@@ -57,11 +57,30 @@ A productivity Chrome extension built to simplify online tasks.
 
 ## 💻 Tech Stack & Tools
 
-<p align="center">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-</p>
+<!-- Core Languages -->
+<img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+
+<!-- Front-end -->
+<img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
+<!-- Back-end / Runtime -->
+<img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+
+<!-- Automation / Scraping -->
+<img alt="Chrome Extensions" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/888/888879.png" />
+<img alt="Web Scraping" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" />
+
+<!-- AI / Systems -->
+<img alt="OpenAI" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" />
+<img alt="Prompt Engineering" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" />
+
+<!-- Tools / Workflow -->
+<img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
 ---
 
