@@ -82,11 +82,6 @@ A productivity Chrome extension built to simplify online tasks.
 
 <!-- Automation -->
 <img alt="Chrome Extensions" height="30" src="https://img.icons8.com/color/48/chrome--v1.png"/>
-<img alt="Web Scraping" height="30" src="https://img.icons8.com/external-flat-juicy-fish/60/external-scraping-data-science-flat-flat-juicy-fish.png"/>
-
-<!-- AI -->
-<img alt="OpenAI" height="30" src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
-<img alt="Automation" height="30" src="https://img.icons8.com/color/48/automation.png"/>
 
 </p>
 
