@@ -2,6 +2,12 @@
 <p align="center">💻 Developer | 🚀 Lifelong Learner | 🎨 Creative Mind</p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-Expert-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lead%20Generation-System-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Integration-Advanced-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SaaS%20Builder-Active-orange?style=for-the-badge"/>
+</p>
 
 ## 👨‍💻 About Me
 
