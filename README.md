@@ -59,7 +59,14 @@ A productivity Chrome extension built to simplify online tasks.
   </tr>
 </table>
 
+---
+## 💰 Projects That Generate Value
 
+- 🚀 Indigo Prospect Pro v2.5.2 → Lead generation & automation system  
+- ⚡ Scalable scraping tools for real businesses  
+- 🤖 AI-powered workflows for client acquisition  
+
+💡 Focus: Building systems that solve problems and generate revenue.
 ---
 
 ## 🎯 Current Goals
