@@ -17,6 +17,10 @@
 - 🎧 I love coding while listening to lo-fi and sipping coffee ☕  
 
 ---
+
+## 📊 GitHub Stats
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wagnermarcellus&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -24,7 +28,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wagnermarcellus&theme=tokyonight&hide_border=true" />
 </p>
-## 📊 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wagnermarcellus&show_icons=true&theme=tokyonight"/>
